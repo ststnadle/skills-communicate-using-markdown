@@ -5,3 +5,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Add header
+- [x] Add Super Mario image
+- [x] Add codeblock
+- [ ] Rule the world
